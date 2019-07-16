@@ -15,7 +15,8 @@ package com.dvo.Test;
 public class TestDemo {
 
 	public static void main(String[] args) {
-
+		String pdno = "zhangjiangfeng";
+		System.out.println(pdno);
 	}
 
 }
