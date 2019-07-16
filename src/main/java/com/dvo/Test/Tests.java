@@ -6,9 +6,10 @@ package com.dvo.Test;
 * @author: Zhang Jiangfeng
 * @date: 2019年7月16日 
 */
-public class Demo {
+public class Tests {
 
-	public String str;
-	public Integer i;
+	public static void main(String[] args) {
+		System.out.println("测试提交");
+	}
 	
 }
